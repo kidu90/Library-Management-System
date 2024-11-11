@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|c:\\users\\masha\\desktop\\librarymanagmentsystem2\\librarymanagmentsystem2\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\managemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\managemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\managemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\managemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\memberdasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\memberdasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\memberdasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\memberdasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\updatebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\updatebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\updatebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\updatebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\updatememberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\updatememberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\updatememberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\updatememberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\librarymanagmentsystem2\\userlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A89B7F-61B5-4A9A-AD23-C9234EF9A443}|LibraryManagmentSystem2\\LibraryManagmentSystem2.csproj|solutionrelative:librarymanagmentsystem2\\userlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\AddMember.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddMember.cs [Design]",
+              "RelativeToolTip": "LibraryManagmentSystem2\\AddMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:44:05.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMember.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\AddMember.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddMember.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\AddMember.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:44:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberManager.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\MemberManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:34:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UserManager.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserManager.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:25:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\BookManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\BookManager.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\BookManager.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\BookManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEEBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:50:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\AddBook.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagmentSystem2\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:46:40.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\AddBook.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\AddBook.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\AddBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:19:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageMembers.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\ManageMembers.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageMembers.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:06:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageMembers.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageMembers.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\ManageMembers.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageMembers.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\ManageMembers.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:16:14.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberDasboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberDasboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\MemberDasboard.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberDasboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberDasboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:45:32.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberDasboard.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberDasboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\MemberDasboard.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\MemberDasboard.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\MemberDasboard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:45:36.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrarianDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\LibrarianDashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\LibrarianDashboard.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\LibrarianDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\LibrarianDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:38:40.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\ManageBooks.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageBooks.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:14:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageBooks.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\ManageBooks.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\ManageBooks.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\ManageBooks.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:15:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\UserLogin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:47:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:47:33.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateBookDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateBookDetail.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateBookDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:59:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateBookDetail.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\UpdateBookDetail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:05:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\Book.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Book.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:41:41.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\DB.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\DB.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\DB.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:29:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateMemberDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateMemberDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateMemberDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:11:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateMemberDetails.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\UpdateMemberDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:55:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\User.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\User.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:15:56.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\Member.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Member.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:53:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\Librarian.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:54:08.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\UserLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\UserLogin.Designer.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\UserLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:23:42.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem2\\Program.cs",
+              "ToolTip": "C:\\Users\\masha\\Desktop\\LibraryManagmentSystem2\\LibraryManagmentSystem2\\Program.cs",
+              "RelativeToolTip": "LibraryManagmentSystem2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:22:46.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
