@@ -1,0 +1,22 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.vscode/
+
+# Ignore database files (if any)
+*.mdf
+*.ldf
+
+# Ignore config files with sensitive data
+*.config
+*.env
